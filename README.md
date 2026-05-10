@@ -233,7 +233,7 @@ The `100x100/` and `50x50/` image directories are present locally during develop
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/<your-github-username>/cnn-art-genre-classification.git
+git clone https://github.com/reidsendroff/cnn-art-genre-classification.git
 cd cnn-art-genre-classification
 
 # 2. Create and activate a virtual environment
